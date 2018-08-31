@@ -1,0 +1,52 @@
+div{
+
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+table{
+    width: 50em;
+    height: 50em;
+    max-width: 1200px;
+    max-height: 1200px;
+    margin: 3em auto;
+}
+
+.white{
+    background: white;
+
+}
+
+.black{
+    background: black;
+}
+
+.white:hover div{
+    border-left-color: rgb(21, 199, 199); 
+    background-color: rgb(207, 203, 203);
+    max-width:50em;
+    max-height: 50em; 
+    visibility: visible;
+
+}
+
+
+
+
+.black:hover{
+    border-left-color: rgb(21, 199, 199); 
+    background-color: rgb(207, 203, 203);
+}
+
+td div {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    visibility: hidden;
+    
+}
+

@@ -21,6 +21,7 @@ nav{
         display: inline;
         padding: 20px;
         margin-left: 5%
+        
     }
 /*4. Aplicar a las etiquetas <li> que se encuentran dentro de la etiqueta <ul> del literal anterior.
     4.1. Vista en linea.*/
@@ -104,7 +105,7 @@ nav{
     14.2 Margen derecho e izquierdo de 15%.*/
 
     .section-footer{
-        display: inline;
+        display: inline-block;
         margin-right: 15%;
         margin-left: 15%;
     }
@@ -147,7 +148,6 @@ nav{
         color: white;
         font-weight: bold;
         border-radius:4px;
-        width: 60%;
         font-size: 1rem; 
     }
 /*19. Aplicar a todos los span dentro de las etiquetas label color de texto #d35400.*/
