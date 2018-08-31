@@ -23,6 +23,7 @@ table{
 
 .black{
     background: black;
+    color: white;
 }
 
 .white:hover div{
@@ -31,15 +32,12 @@ table{
     max-width:50em;
     max-height: 50em; 
     visibility: visible;
-
 }
 
-
-
-
-.black:hover{
+.black:hover div{
     border-left-color: rgb(21, 199, 199); 
     background-color: rgb(207, 203, 203);
+    visibility: visible;
 }
 
 td div {
