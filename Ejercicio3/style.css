@@ -1,0 +1,159 @@
+div input{
+    border: none;
+    padding: 0.5em 1em;
+    border-radius: 0.3em;
+}
+
+#normal{
+    font-size: 0.9em;
+    background-color: whitesmoke;
+}
+
+#pequeño{
+    font-size: 0.9em;
+    background-color: whitesmoke;
+}
+
+#grande{
+    font-size: 1.4em;
+    background-color: whitesmoke;
+    
+}
+
+#esmeralda{
+    color:white;
+    background-color: #00bb8f;
+}
+
+#cielo{
+    color:white;
+    background-color: skyblue;
+}
+
+#amatista{
+    color: white;
+    background-color: #898ac0;
+}
+
+#asfalto{
+    color: white;
+    background-color: #474b4e;
+}
+
+#topazio{
+    color:white;
+    background-color:#ff7e00; 
+}
+
+#rubi{
+    color:white;
+    background-color: #9b111e;
+}
+
+#bs{
+    background-color: white;
+    border: 0.5px solid black;
+    color: black;
+}
+
+#eab{
+    background-color: white;
+    border: 0.5px solid #00bb8f;
+    color: #00bb8f;
+}
+
+#bco{
+    background-color: white;
+    border: 0.5px solid skyblue;
+    color: skyblue;
+}
+
+#baa{
+    background-color: white;
+    border: 0.5px solid #898ac0;
+    color: #898ac0;
+}
+
+#bao{
+    background-color: white;
+    border: 0.5px solid #474b4e;
+    color: #474b4e;
+}
+
+#bto{
+    background-color: white;
+    border: 0.5px solid #ff7e00;
+    color: #ff7e00;
+}
+
+#bri{
+    background-color: white;
+    border: 0.5px solid #9b111e;
+    color: #9b111e;
+}
+
+#largo{
+    font-size: 1.4em;
+    color: white;
+    background-color: #474b4e;
+}
+
+#borde{
+    font-size: 0.9em;
+    background-color: white;
+    border: 0.5px solid skyblue;
+    color: skyblue
+}
+
+#smallea{
+    font-size: 0.5em;
+    color: white;
+    background-color: #00bb8f;
+}
+
+#rib{
+    font-size: 1.4em;
+    background-color: white;
+    border: 0.5px solid #9b111e;
+    color: #9b111e;
+}
+
+#normal:hover{
+    border-left-color: rgb(21, 199, 199); 
+    background-color: rgb(207, 203, 203);
+}
+
+#pequeño:hover{
+    border-left-color: rgb(21, 199, 199); 
+    background-color: rgb(207, 203, 203);
+}
+
+#grande:hover{
+    border-left-color: rgb(21, 199, 199); 
+    background-color: rgb(207, 203, 203);
+}
+
+#bri:hover{
+    border-left-color: rgb(21, 199, 199); 
+    background-color: rgb(207, 203, 203);
+}
+
+#largo:hover{
+    border-left-color: rgb(21, 199, 199); 
+    background-color: rgb(207, 203, 203);
+}
+
+#smallea:hover{
+    border-left-color: rgb(21, 199, 199); 
+    background-color: rgb(207, 203, 203);
+}
+
+#rib:hover{
+    border-left-color: rgb(21, 199, 199); 
+    background-color: rgb(207, 203, 203);
+}
+
+#borde:hover{
+    border-left-color: rgb(21, 199, 199); 
+    background-color: rgb(207, 203, 203);
+}
