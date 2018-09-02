@@ -7,95 +7,111 @@ div input{
 #normal{
     font-size: 0.9em;
     background-color: whitesmoke;
+    margin: 1%
 }
 
 #pequeño{
     font-size: 0.9em;
     background-color: whitesmoke;
+    margin: 1%
 }
 
 #grande{
     font-size: 1.4em;
     background-color: whitesmoke;
-    
+    margin: 1%
 }
 
 #esmeralda{
     color:white;
     background-color: #00bb8f;
+    margin: 1%
 }
 
 #cielo{
     color:white;
     background-color: skyblue;
+    margin: 1%
 }
 
 #amatista{
     color: white;
     background-color: #898ac0;
+    margin: 1%
 }
 
 #asfalto{
     color: white;
     background-color: #474b4e;
+    margin: 1%
 }
 
 #topazio{
     color:white;
-    background-color:#ff7e00; 
+    background-color:#ff7e00;
+    margin: 1% 
 }
 
 #rubi{
     color:white;
     background-color: #9b111e;
+    margin: 1%
 }
 
 #bs{
     background-color: white;
     border: 0.5px solid black;
     color: black;
+    margin: 1%
 }
 
 #eab{
     background-color: white;
     border: 0.5px solid #00bb8f;
     color: #00bb8f;
+    margin: 1%
 }
 
 #bco{
     background-color: white;
     border: 0.5px solid skyblue;
     color: skyblue;
+    margin: 1%
 }
 
 #baa{
     background-color: white;
     border: 0.5px solid #898ac0;
     color: #898ac0;
+    margin: 1%
 }
 
 #bao{
     background-color: white;
     border: 0.5px solid #474b4e;
     color: #474b4e;
+    margin: 1%
 }
 
 #bto{
     background-color: white;
     border: 0.5px solid #ff7e00;
     color: #ff7e00;
+    margin: 1%
 }
 
 #bri{
     background-color: white;
     border: 0.5px solid #9b111e;
     color: #9b111e;
+    margin: 1%
 }
 
 #largo{
     font-size: 1.4em;
     color: white;
     background-color: #474b4e;
+    margin: 1%
 }
 
 #borde{
@@ -103,12 +119,14 @@ div input{
     background-color: white;
     border: 0.5px solid skyblue;
     color: skyblue
+    margin: 1%
 }
 
 #smallea{
     font-size: 0.5em;
     color: white;
     background-color: #00bb8f;
+    margin: 1%
 }
 
 #rib{
@@ -116,6 +134,7 @@ div input{
     background-color: white;
     border: 0.5px solid #9b111e;
     color: #9b111e;
+    margin: 1%
 }
 
 #normal:hover{
