@@ -1,0 +1,22 @@
+header{
+    background: #2d3436;
+    margin-bottom: 2%;    
+}
+
+h1{
+    color: white;
+    margin: 1%;
+    padding-top: 0.5em
+}
+
+a{
+    text-decoration: none;
+}
+
+footer{
+    background: #2d3436;
+    margin-bottom: 2%; 
+    color: white;
+    padding:0.5em 0.5em;
+     
+}
